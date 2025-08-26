@@ -19,10 +19,10 @@ A Full Adder is a fundamental digital circuit used for binary addition. In this 
 ---
 
 ## 🔹 Project Structure
--schematics/ → Xschem schematic files (AND, OR, XOR, inverter, full adder)
--layouts/ → Layout design using Magic VLSI
--simulation/ → Simulation results and waveform captures
--docs/ → Project report and documentation
+-schematics/ → Xschem schematic files (AND, OR, XOR, inverter, full adder).
+-layouts/ → Layout design using Magic VLSI.
+-simulation/ → Simulation results and waveform captures.
+-docs/ → Project report and documentation.
 ---
 
 ## 🔹 Circuit Overview
